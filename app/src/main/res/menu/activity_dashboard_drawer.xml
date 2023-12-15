@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_reports"
+            android:icon="@drawable/report"
+            android:title="Reports"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_licenece"
+            android:icon="@drawable/license"
+            android:title="Driving Licence" />
+
+        <item
+            android:id="@+id/nav_import"
+            android:icon="@drawable/import_"
+            android:title="Import" />
+
+        <item
+            android:id="@+id/nav_export"
+            android:icon="@drawable/export"
+            android:title="Export" />
+
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/info"
+            android:title="App Info" />
+
+    </group>
+</menu>

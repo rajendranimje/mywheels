@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+<!--    Default Colors    -->
+   <!-- <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>-->
+
+
+
+    <color name="colorPrimary">#185e86</color>
+    <color name="colorPrimaryDark">#084466</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="light_green">#41D4A8</color>
+    <color name="dark_green">#26B78C</color>
+    <color name="dark_blue">#757f9b</color>
+
+    <color name="green_colorprimary">#009688</color>
+    <color name="green_colorPrimaryDark">#00695C</color>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="Blue">#00012F</color>
+    <color name="DARK_SKYBLUE">#143845</color>
+    <color name="grey">#696969</color>
+    <color name="light_grey">#e2e2e2</color>
+    <color name="normal_grey">#c6c4c4</color>
+    <color name="header_color">#FF45AE7A</color>
+
+
+    <!--
+        <color name="bg">#3CBCD6</color>
+    -->
+    <color name="bg">#75d6d4d4</color>
+    <color name="buton_bg">#c83435</color>
+    <color name="dialog_bg">#ffffff</color>
+    <color name="bt_select">#0089bb</color>
+    <color name="bt_unselect">#245e2828</color>
+    <color name="sp_bg">#010101</color>
+    <color name="red">#FF0000</color>
+    <color name="orange">#FFA500</color>
+    <color name="green">#008000</color>
+
+    <color name="alpha_pink">#C2185B</color>
+    <color name="alpha_purple">#7B1FA2</color>
+    <color name="alpha_yello">#F9A825</color>
+    <color name="alpha_deeppink">#311B92</color>
+    <color name="alpha_teal">#26A69A</color>
+    <color name="snackbar_bg">#26A69A</color>
+
+
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#fe104d</color>
+    <color name="black_overlay">#66000000</color>
+
+    <color name="seperator_color">#E0E0E0</color>
+    <color name="Green_bt">#0C8069</color>
+    <color name="view_colour">#9CA1A4</color>
+    <color name="button_color">#ed524f</color>
+
+</resources>

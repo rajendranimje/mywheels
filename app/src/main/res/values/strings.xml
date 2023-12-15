@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">My Wheels</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="date_arrays">
+        <item>Today</item>
+        <item>Yesterday</item>
+        <item>Last 7 days</item>
+        <item>Last 30 days</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="fuel_array">
+        <item>Fuel Type</item>
+        <item>Petrol</item>
+        <item>Diesel</item>
+        <item>Gas</item>
+        <item>Electric</item>
+    </string-array>
+    <string-array name="search_array">
+        <item>Select Details</item>
+        <item>Insurance</item>
+        <item>Pollution</item>
+        <item>Servicing</item>
+        <!-- <item>Challans Paid</item>
+        <item>Insurance Claims</item>
+        <item>Fuel Refill</item>-->
+    </string-array>
+    <string name="lines">5</string>
+    <string name="valid_from">Valid from</string>
+    <string name="valid_upto">Valid upto</string>
+    <string name="servicing_date">Servicing Date</string>
+    <string name="next_servicing_date">Next Servicing Date</string>
+    <string name="servicing_at_km">Servicing at km</string>
+    <string name="next_servicing_at_km">Next Servicing at km</string>
+    <string name="services">Services</string>
+    <string name="select_ins_img">Please Capture Insurance Certificate Image</string>
+    <string name="select_rc_front_img">Please Capture RC Front Image</string>
+    <string name="select_rc_back_img">Please Capture RC Back Image</string>
+    <string name="select_bill_img">Please Capture Bill/Warranty Image</string>
+    <string name="select_battery_img">Please Capture Battery Image</string>
+    <string name="select_valid_upto">Please Select valid upto</string>
+    <string name="select_agency">Please enter Agency</string>
+    <string name="vehicle_inserted">Vehicle Details Added Successfully</string>
+    <string name="vehicle_updated">Vehicle Details Updated Successfully</string>
+    <string name="error_msg">Something went wrong</string>
+    <string name="ins_inserted">Insurance Details Added Successfully</string>
+    <string name="ins_updated">Insurance Details Updated Successfully</string>
+    <string name="img_updated">Image Updated Successfully</string>
+    <string name="poll_inserted">Pollution Details Added Successfully</string>
+    <string name="poll_updated">Pollution Details Updated Successfully</string>
+    <string name="ser_inserted">Servicing Details Added Successfully</string>
+    <string name="serv_updated">Servicing Details Updated Successfully</string>
+    <string name="lic_inserted">Licence Details Added Successfully</string>
+    <string name="rc_inserted">RC Details Added Successfully</string>
+    <string name="battery_inserted">Battery Details Added Successfully</string>
+    <string name="battery_updated">Battery Details Updated Successfully</string>
+    <string name="rc_updated">RC Details Updated Successfully</string>
+    <string name="select_poll_img">Please Capture Pollution Certificate Image</string>
+    <string name="sel_next_date">Please Select Next Servicing Date</string>
+    <string name="sel_services">Please enter Services</string>
+    <string name="sel_os_amount">Please enter Others Amount</string>
+    <string name="sel_gs_amount">Please enter General Service Amount</string>
+    <string name="sel_next_servicing_date">Please enter Next Servicing at km</string>
+    <string name="sel_warranty">Please enter Warranty End Date</string>
+
+    <string name="viewGithub">View on GitHub</string>
+    <string name="reportProblem">Problem Report</string>
+    <string name="viewWebsite">Developer Website</string>
+    <string name="actionSave">Save to Gallery</string>
+
+    <string name="animateX">Animate X</string>
+    <string name="animateY">Animate Y</string>
+    <string name="animateXY">Animate XY</string>
+
+    <string name="actionToggleValues">Toggle Values</string>
+    <string name="actionToggleYValues">Toggle Y-Values</string>
+    <string name="actionToggleXValues">Toggle X-Values</string>
+
+    <string name="actionToggleIcons">Toggle Icons</string>
+    <string name="actionToggleHighlight">Toggle Highlight</string>
+    <string name="actionTogglePinch">Toggle PinchZoom</string>
+    <string name="actionToggleAutoScale">Toggle Auto Scale</string>
+
+    <string name="actionToggleLineValues">Toggle Line Values</string>
+    <string name="actionToggleBarValues">Toggle Bar Values</string>
+    <string name="actionToggleBarBorders">Toggle Bar Borders</string>
+    <string name="actionToggleFilled">Toggle Filled</string>
+    <string name="actionToggleCircles">Toggle Circles</string>
+    <string name="actionToggleCandleShadow">Toggle Shadow Color</string>
+
+    <string name="actionToggleCubic">Toggle Cubic</string>
+    <string name="actionToggleStepped">Toggle Stepped</string>
+    <string name="actionToggleHorizontalCubic">Toggle Horizontal Cubic</string>
+
+    <string name="actionAddEntry">Add Entry</string>
+    <string name="actionFeedMultiple">Add Multiple</string>
+    <string name="actionRemoveEntry">Remove Entry</string>
+    <string name="actionAddDataSet">Add Data Set</string>
+    <string name="actionRemoveDataSet">Remove Data Set</string>
+    <string name="actionClearChart">Clear chart</string>
+
+    <string name="actionTogglePercent">Toggle Percent</string>
+    <string name="actionToggleMinAngles">Toggle Minimum Angles</string>
+    <string name="actionToggleHole">Toggle Hole</string>
+    <string name="actionToggleCurvedSlices">Toggle Curved Slices</string>
+    <string name="actionDrawCenterText">Draw Center Text</string>
+    <string name="actionToggleHighlightCircle">Toggle Highlight Circle</string>
+    <string name="actionToggleRotation">Toggle Rotation</string>
+    <string name="actionToggleSpin">Spin Animation</string>
+
+    <string name="dash">-</string>
+    <string name="scrollViewStart">START OF SCROLLVIEW</string>
+    <string name="scrollViewEnd">END OF SCROLLVIEW</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="amount">Amount Paid</string>
+    <string name="warranty_end_date">Warranty End Date</string>
+    <string name="purchased_on">Purchased On</string>
+    <string name="long_description">\tYou have to carry Registration Certificate, annual insurance paper, pollution certificate copy while driving. You have to remember timely renewals of insurance, Pollution, servicing and battery maintenance. Having more than one vehicle multiplies your problem.\n\n
+        My Wheels stores and organizes all your vehicle papers in your mobile including battery warranties. No more trouble when inspecting authority asks for it. You will not miss any renewals now and will able to keep vehicle in perfectly healthy condition. Family sharing is provided for having flexibility to take out any vehicle by any family member or friend without having physical papers. Driving license can also be stored by you.</string>
+    <string name="app_name_title">App Name:</string>
+    <string name="description">About App:</string>
+    <string name="features_des"><![CDATA[
+    ▪ Important vehicle information – Reg. No, Make, Model, Year, Vehicle photos, Fuel type
+    \n▪ Digital Papers – Reg. Certificate, Running Insurance, Pollution certificate, servicing papers
+    \n▪ Critical Reminder – Expiry of Insurance, Pollution, Next servicing date, battery
+    replace date Shows No. of days remaining for each of the above with green and red colour
+    \n▪ Import & Export function for sharing documents with family members, No sharing of data on our servers, full privacy
+    \n▪ Search function – partial and full search on vehicle number
+    \n▪ Offline app- does not depend on Internet ensuring guaranteed working of app\n\n
+This organizer is so simple and intuitive, literally no learning curve, just download and have peace of mind on management of your vehicles!]]></string>
+    <string name="features">Features:</string>
+    <string name="app_version">App Version:</string>
+
+    <string name="plz_grant">Please grant required permissions</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
